@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I'm currently thinking of the best ways to communicate uncertainty
 - 👍 Open data
 - 📫 How to reach me: gwilloughby99@gmail.com
+-->
 
 [![George's github stats](https://github-readme-stats.vercel.app/api?username=GWilloughby99&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
--->
