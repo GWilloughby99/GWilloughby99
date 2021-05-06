@@ -6,5 +6,5 @@
 
 **Data journalist. Check out my pinned repositories below which includes my webiste.**
 
-[![George's github stats](https://github-readme-stats.vercel.app/api?username=GWilloughby99&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![George's github stats](https://github-readme-stats.vercel.app/api?username=GWilloughby99&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/GWilloughby99/github-readme-stats)
 
