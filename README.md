@@ -18,3 +18,4 @@ My name is George Willoughby I am a data journalist based in the 🇬🇧
 <a href="https://github.com/GWilloughby99/GWilloughby99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GWilloughby99&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
