@@ -1,11 +1,4 @@
-### Hi there 👋
-<!--
-**GWilloughby99/GWilloughby99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-**Data journalist. Check out my pinned repositories below which includes my webiste.**
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! My name is George Willoughby I am a data journalist <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
