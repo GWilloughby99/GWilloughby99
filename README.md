@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-# Hi there <img src="https://raw.githubusercontent.com/GWilloughby99/GWilloughby99/master/wave.gif" width="30px">
-
 <!--
 **GWilloughby99/GWilloughby99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
