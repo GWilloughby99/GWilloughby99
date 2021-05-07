@@ -1,5 +1,5 @@
-## Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-# My name is George Willoughby I am a data journalist
+# Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### My name is George Willoughby I am a data journalist
 
 
 <a href="https://github.com/GWilloughby99/GWilloughby99.github.io">
