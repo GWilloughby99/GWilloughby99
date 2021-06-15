@@ -3,7 +3,7 @@ My name is George Willoughby I am a data journalist based in the 🇬🇧
 ---
 <ul>
   <li> 🔬 <b>Work</b>: Creating a major project on early years childcare in the UK </li>
-  <li> 👀<b>Future</b>: Searching for data journalism roles </li> 
+  <li> 👀 <b>Future</b>: Searching for data journalism roles </li> 
   <li> 📚 <b>Learning</b>: Learning R and JavaScript with the intent to learn D3 </li>
   <li> 💡 <b>Interests</b>: Like telling stories with data and revealing the human behind the numbers </li>
   <li> 🥗 <b>Fun fact</b>: I recently became a vegetarian in March 2021 </li>
