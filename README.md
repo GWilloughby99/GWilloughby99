@@ -8,7 +8,7 @@ My name is George Willoughby I am a data journalist based in the 🇬🇧
   <li> 💡 <b>Interests</b>: Like telling stories with data and revealing the human behind the numbers </li>
   <li> 🥗 <b>Fun fact</b>: Became a vegetarian in March 2021 </li>
   <li> 🏏 <b>Sport</b>: Love sport, especially cricket </li>
-  <li> 🇩🇪 <b>Extra</b>: Started learning German and <b>Ich genieße es<b> </li> 
+  <li> 🇩🇪 <b>Extra</b>: Learning German and <b>Ich genieße es<b> </li> 
 </ul>
 
 --- 
