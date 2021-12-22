@@ -2,7 +2,7 @@
 My name is George Willoughby I am a data journalist based in the 🇬🇧
 ---
 <ul>
-  <li> 🔬 <b>Work</b>: Currently freelance developing new skills </li>
+  <li> 🔬 <b>Work</b>: Data journalism graduate at The Times and Sunday Times </li>
   <li> 👀 <b>Future</b>: Want to learn D3 </li> 
   <li> 📚 <b>Learning</b>: R for data analysis and visualisation  </li>
   <li> 💡 <b>Interests</b>: Like telling stories with data and revealing the human behind the numbers </li>
