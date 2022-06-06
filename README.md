@@ -1,4 +1,4 @@
-# Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px", height = "10px">
+# Hi there! 👋
 My name is George Willoughby I am a data journalist based in the 🇬🇧
 ---
 <ul>
@@ -23,3 +23,5 @@ My name is George Willoughby I am a data journalist based in the 🇬🇧
 <!-- [![George's github stats](https://github-readme-stats.vercel.app/api?username=GWilloughby99&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GWilloughby99)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!--   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px", height = "10px">   -->
