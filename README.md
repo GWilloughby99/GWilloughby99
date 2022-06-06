@@ -1,4 +1,4 @@
-# Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 My name is George Willoughby I am a data journalist based in the 🇬🇧
 ---
 <ul>
