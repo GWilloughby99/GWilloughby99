@@ -13,11 +13,11 @@ My name is George Willoughby I am a data journalist based in the 🇬🇧
 
 --- 
 
-<a href="https://github.com/GWilloughby99/GWilloughby99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=GWilloughby99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="George's GitHub Stats" />
-</a>
-<a href="https://github.com/GWilloughby99/GWilloughby99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GWilloughby99&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<!-- <a href="https://github.com/GWilloughby99/GWilloughby99"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=GWilloughby99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="George's GitHub Stats" /> -->
+<!-- </a> -->
+<!-- <a href="https://github.com/GWilloughby99/GWilloughby99"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GWilloughby99&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
 </a>
 
 <!-- [![George's github stats](https://github-readme-stats.vercel.app/api?username=GWilloughby99&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
