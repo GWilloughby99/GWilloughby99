@@ -6,7 +6,7 @@ My name is George Willoughby I am a data journalist based in the 🇬🇧
   <li> 👀 <b>Future</b>: Want to learn more R functions </li> 
   <li> 📚 <b>Learning</b>: R and javascript  </li>
   <li> 🎯 <b>Sport</b>: Keen darts player </li>
-  <li> 🇩🇪 <b>Extra</b>: Ich lerne Deutsch </li> 
+  <li> 🇩🇪 <b>Extra</b>: Ich lerne Deutsch und es macht mir Spaß </li> 
 </ul>
 
 --- 
