@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name is George Willoughby I am a data journalist based in the 🇬🇧
+My name is George Willoughby and I am a data journalist based in the 🇬🇧
 ---
 <ul>
   <li> 🔬 <b>Work</b>: Data journalist at The Times and The Sunday Times </li>
